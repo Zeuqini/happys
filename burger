@@ -1,0 +1,13 @@
+!talk	Makes speech bubbles appear over customer's heads with your message
+!radio	A text-to-speech Klattersynth will say whatever you type to the player!
+!mascot	Make the mascots speak to the player from a pool of their favorite phrases!
+!food	Give the player a bite to eat from a random assortment of goods!
+!spawn	Spawn a friend (but really it's just a foe) for the player to have EXTRA fun!
+!scare	Trigger a dynamic scare event if applicable
+!light	It's too bright in here, if applicable, toggle a light switch.
+!tv	Toggle the TV in the player's apartment!
+!door	It's too drafty in here, open (or close) a random door if applicable
+!throw	Don't like what the player is holding? Me neither, throw it! (this makes cooking real fun)
+!jump	JUMP! AHHH!!!!
+!booze	Buy the player a drink, everyone knows it's fun to get buzzed at work.
+!pills	I CAN TASTE THE COLORS!!
